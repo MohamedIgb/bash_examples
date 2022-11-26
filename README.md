@@ -11,7 +11,7 @@
 	https://github.com/MohamedIgb/bash_examples.git
 
 2. ###### In your terminal change directory to your local path
-	cd/"path"
+	$ cd/"path"
 
 3. ###### To run the code use "./" and change the name of the code you want
 	./f2c.sh
