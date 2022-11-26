@@ -9,17 +9,17 @@
 #### To run any code above:
 1. ###### Clone the repository 
 ```
-	https://github.com/MohamedIgb/bash_examples.git
+https://github.com/MohamedIgb/bash_examples.git
 ```
 
 2. ###### In your terminal change directory to your local path
 ```
-	cd/"path"
+cd/"path"
 ```
 
 3. ###### To run the code use "./" and change the name of the code you want
 ```
-	./f2c.sh
+./f2c.sh
 ```
 ```
 ./max_du.sh
@@ -32,5 +32,5 @@
 
 * If you got "permission denied" use change mode command and give execution  permission to the "file".
 ```
-	chmod u+x "file"
+chmod u+x "file"
 ```
